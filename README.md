@@ -2,13 +2,6 @@
 
 <p><em>Studying...</a> 
   
-<p><em>Working on Exhaust Client</a> 
-
-[![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/zjuvee)
-[![Discord](https://img.shields.io/badge/-Discord-%3Fstyle%3Dflat%26logo%3DLinkedin%26logoColor%3Dwhite?logo=discord&color=4b4f62)]()
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)]()
-
-  
 ## My Technologies
 
 ### Programming languages
