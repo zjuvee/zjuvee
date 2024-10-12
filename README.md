@@ -1,6 +1,6 @@
 ## <p><em>David</a> 
 
-<p><em>Studying...</a> 
+<p><em>reverse engineering and gamehacking enthusiast 👍</a> 
   
 ## My Technologies
 
